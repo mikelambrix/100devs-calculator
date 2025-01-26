@@ -51,8 +51,3 @@ function clearDisplay(){
     updateDisplay();
 }
 
-// Attached handleOverflow to window resize event
-// window.addEventListener("resize", handleOverflow);
-
-// Call handleOverflow initially to handle any overflow on page load
-// handleOverflow();
